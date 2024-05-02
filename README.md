@@ -9,7 +9,7 @@ https://github.com/ehpower/code-20240501-EnriqueHidalgoPower/blob/main/Vamstar%2
  
 **What manual tasks would you perform?**
 
-Manual task doesn't help with scalability. It is better to spend more time preparing a cleaning script that covers most possible scenarios, this will ensure that no matter the  number of rows the tables the data will be clean.
+Manual task doesn't help with scalability. It is better to spend more time preparing a cleaning script that covers most possible scenarios, this will ensure that no matter the  number of rows the tables the data will be clean. Manual tasks are helpful at first to understand data and what possible errors can take place, as well as to analyze the output and dive down to find possible error, later on, most cleaning steps should be automated.
 
 **How would you improve this process long term and how would you build your roadmap?**
 
