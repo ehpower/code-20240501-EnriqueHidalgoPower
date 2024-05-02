@@ -1,6 +1,7 @@
 Instructions
 
 **What automated approaches can you use?**
+
 A Python script that cleans the data is the best appraoch to optimize the cleaning process. To do so I have created some funtions that will check for quality and in some cases when specific conditions aren't met, remove rows.
 I have prepared some simple funtions that could help meet this purpose.
 
